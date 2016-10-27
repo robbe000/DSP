@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\robbe\onedrive\documents\school\3e jaar\dsp\labo3\labo3\source.cpp(29): warning C4101: 'uitgang': unreferenced local variable
+  labo3.vcxproj -> C:\Users\robbe\OneDrive\Documents\school\3e jaar\dsp\labo3\Debug\labo3.exe
+  labo3.vcxproj -> C:\Users\robbe\OneDrive\Documents\school\3e jaar\dsp\labo3\Debug\labo3.pdb (Partial PDB)

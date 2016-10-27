@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\robbe\onedrive\documents\school\3e jaar\dsp\labo2\labo2\source.c(23): warning C4013: 'calloc' undefined; assuming extern returning int
+  labo2.vcxproj -> C:\Users\robbe\OneDrive\Documents\school\3e jaar\dsp\labo2\Debug\labo2.exe
+  labo2.vcxproj -> C:\Users\robbe\OneDrive\Documents\school\3e jaar\dsp\labo2\Debug\labo2.pdb (Partial PDB)
